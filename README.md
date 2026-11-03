@@ -104,14 +104,7 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naamsanamone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08080a&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naamsanamone&layout=compact&theme=tokyonight&hide_border=true&bg_color=08080a&title_color=3b82f6&text_color=94a3b8" height="155" alt="Top Languages" />
-</div>
-
 ---
-
 ### 📬 Get in Touch
 
 - 🌐 **Portfolio Website**: [myportfolio-five-vert-75.vercel.app](https://myportfolio-five-vert-75.vercel.app/)
