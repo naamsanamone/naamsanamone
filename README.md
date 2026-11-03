@@ -1,6 +1,3 @@
-Here is the complete, uninterrupted raw copy of your GitHub Profile **`README.md`**. You can copy the code block below directly:
-
-````markdown
 <div align="center">
 
 # Hey there, I'm Sai Venkat 👋
