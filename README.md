@@ -8,7 +8,7 @@
 
 <br />
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-myportfolio--sanam13.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-sanam13.vercel.app/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-myportfolio--five--vert--75.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-five-vert-75.vercel.app/)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-LinkedApply_Pro-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/ajgnfmojakmcoicgnmnfefiliaeikmah?utm_source=item-share-cb)
 [![Render Live MVP](https://img.shields.io/badge/Live_MVP-DeGhost_on_Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://deghost-mvp.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naamsanam13-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naamsanam13)
@@ -114,4 +114,3 @@
 - 🧩 **LeetCode**: [leetcode.com/u/sanamsai/](https://leetcode.com/u/sanamsai/)
 - 📄 **Resume**: [Download AI Engineer Resume](https://myportfolio-five-vert-75.vercel.app/resume.pdf)
 - ✉️ **Email**: [sanamreddysaivenkatareddy@gmail.com](mailto:sanamreddysaivenkatareddy@gmail.com)
-````
